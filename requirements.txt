@@ -1,0 +1,12 @@
+numpy
+matplotlib
+jupyterlab
+pandas
+seaborn
+xgboost
+inflection
+scipy
+BorutaPy
+tabulate
+scikit-learn
+IPython
